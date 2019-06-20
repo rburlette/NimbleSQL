@@ -1,0 +1,2 @@
+# NimbleSQL
+Inspired by NimbleText
